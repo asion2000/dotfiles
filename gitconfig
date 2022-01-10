@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = asion2000@gmail.com
+	name = Alexis Sion
